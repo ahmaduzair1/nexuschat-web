@@ -1,0 +1,12 @@
+node_modules
+dist
+.DS_Store
+*.local
+.env
+.env.*
+!.env.example
+shell-out.txt
+nodever.txt
+test-write.txt
+
+.firebase
